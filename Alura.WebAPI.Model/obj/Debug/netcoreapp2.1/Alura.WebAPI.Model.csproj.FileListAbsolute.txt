@@ -13,3 +13,11 @@ C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netco
 C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.csproj.CoreCompileInputs.cache
 C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
 C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Users\Pedro Rocha\Documents\StudyRepos\AluraWebApi\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.deps.json
+C:\Users\Pedro Rocha\Documents\StudyRepos\AluraWebApi\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Users\Pedro Rocha\Documents\StudyRepos\AluraWebApi\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Users\Pedro Rocha\Documents\StudyRepos\AluraWebApi\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.AssemblyInfoInputs.cache
+C:\Users\Pedro Rocha\Documents\StudyRepos\AluraWebApi\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.AssemblyInfo.cs
+C:\Users\Pedro Rocha\Documents\StudyRepos\AluraWebApi\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Users\Pedro Rocha\Documents\StudyRepos\AluraWebApi\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Users\Pedro Rocha\Documents\StudyRepos\AluraWebApi\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.csprojAssemblyReference.cache

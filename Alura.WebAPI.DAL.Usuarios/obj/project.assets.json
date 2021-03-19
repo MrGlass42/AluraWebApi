@@ -4415,23 +4415,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MrGlassMASTER\\.nuget\\packages\\": {},
+    "C:\\Users\\Pedro Rocha\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MrGlassMASTER\\Documents\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj",
+      "projectUniqueName": "C:\\Users\\Pedro Rocha\\Documents\\StudyRepos\\AluraWebApi\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj",
       "projectName": "Alura.WebAPI.DAL.Usuarios",
-      "projectPath": "C:\\Users\\MrGlassMASTER\\Documents\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj",
-      "packagesPath": "C:\\Users\\MrGlassMASTER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MrGlassMASTER\\Documents\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\obj\\",
+      "projectPath": "C:\\Users\\Pedro Rocha\\Documents\\StudyRepos\\AluraWebApi\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj",
+      "packagesPath": "C:\\Users\\Pedro Rocha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Pedro Rocha\\Documents\\StudyRepos\\AluraWebApi\\Alura.WebAPI.DAL.Usuarios\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\MrGlassMASTER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Pedro Rocha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4488,7 +4488,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

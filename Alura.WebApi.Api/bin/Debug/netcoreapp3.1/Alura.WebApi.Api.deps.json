@@ -10,7 +10,7 @@
       "NETCOREAPP",
       "NETCOREAPP3_1"
     ],
-    "languageVersion": "8.0",
+    "languageVersion": "",
     "platform": "",
     "allowUnsafe": false,
     "warningsAsErrors": false,
@@ -28,6 +28,8 @@
           "Alura.WebAPI.Model": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "2.1.0",
           "Microsoft.AspNetCore.Mvc.Versioning": "5.0.0",
+          "Swashbuckle.AspNetCore": "6.1.1",
+          "Swashbuckle.AspNetCore.Annotations": "6.1.1",
           "System.IdentityModel.Tokens.Jwt": "6.9.0",
           "System.Linq.Dynamic.Core": "1.2.8",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
@@ -498,6 +500,7 @@
           "lib/netstandard2.0/Microsoft.EntityFrameworkCore.SqlServer.dll": {}
         }
       },
+      "Microsoft.Extensions.ApiDescription.Server/3.0.0": {},
       "Microsoft.Extensions.Caching.Abstractions/2.1.1": {
         "dependencies": {
           "Microsoft.Extensions.Primitives": "2.1.1"
@@ -660,6 +663,17 @@
       },
       "Microsoft.NETCore.Platforms/2.0.0": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
+      "Microsoft.OpenApi/1.2.3": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "assemblyVersion": "1.2.3.0",
+            "fileVersion": "1.2.3.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {}
+        }
+      },
       "Microsoft.Win32.Primitives/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "2.0.0",
@@ -864,6 +878,67 @@
             "assetType": "native",
             "fileVersion": "4.6.25512.1"
           }
+        }
+      },
+      "Swashbuckle.AspNetCore/6.1.1": {
+        "dependencies": {
+          "Microsoft.Extensions.ApiDescription.Server": "3.0.0",
+          "Swashbuckle.AspNetCore.Swagger": "6.1.1",
+          "Swashbuckle.AspNetCore.SwaggerGen": "6.1.1",
+          "Swashbuckle.AspNetCore.SwaggerUI": "6.1.1"
+        }
+      },
+      "Swashbuckle.AspNetCore.Annotations/6.1.1": {
+        "dependencies": {
+          "Swashbuckle.AspNetCore.SwaggerGen": "6.1.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Annotations.dll": {
+            "assemblyVersion": "6.1.1.0",
+            "fileVersion": "6.1.1.0"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Annotations.dll": {}
+        }
+      },
+      "Swashbuckle.AspNetCore.Swagger/6.1.1": {
+        "dependencies": {
+          "Microsoft.OpenApi": "1.2.3"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll": {
+            "assemblyVersion": "6.1.1.0",
+            "fileVersion": "6.1.1.0"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll": {}
+        }
+      },
+      "Swashbuckle.AspNetCore.SwaggerGen/6.1.1": {
+        "dependencies": {
+          "Swashbuckle.AspNetCore.Swagger": "6.1.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+            "assemblyVersion": "6.1.1.0",
+            "fileVersion": "6.1.1.0"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {}
+        }
+      },
+      "Swashbuckle.AspNetCore.SwaggerUI/6.1.1": {
+        "runtime": {
+          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "assemblyVersion": "6.1.1.0",
+            "fileVersion": "6.1.1.0"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
         }
       },
       "System.AppContext/4.3.0": {
@@ -1461,6 +1536,20 @@
       "System.Security.Cryptography.Pkcs/4.5.0": {
         "dependencies": {
           "System.Security.Cryptography.Cng": "4.5.0"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/System.Security.Cryptography.Pkcs.dll": {
+            "assemblyVersion": "4.0.3.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.1/System.Security.Cryptography.Pkcs.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.3.0",
+            "fileVersion": "4.6.26515.6"
+          }
         }
       },
       "System.Security.Cryptography.Primitives/4.3.0": {
@@ -3495,6 +3584,13 @@
       "path": "microsoft.entityframeworkcore.sqlserver/2.1.0",
       "hashPath": "microsoft.entityframeworkcore.sqlserver.2.1.0.nupkg.sha512"
     },
+    "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LH4OE/76F6sOCslif7+Xh3fS/wUUrE5ryeXAMcoCnuwOQGT5Smw0p57IgDh/pHgHaGz/e+AmEQb7pRgb++wt0w==",
+      "path": "microsoft.extensions.apidescription.server/3.0.0",
+      "hashPath": "microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512"
+    },
     "Microsoft.Extensions.Caching.Abstractions/2.1.1": {
       "type": "package",
       "serviceable": true,
@@ -3655,6 +3751,13 @@
       "sha512": "sha512-aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
       "path": "microsoft.netcore.targets/1.1.0",
       "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.OpenApi/1.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Nug3rO+7Kl5/SBAadzSMAVgqDlfGjJZ0GenQrLywJ84XGKO0uRqkunz5Wyl0SDwcR71bAATXvSdbdzPrYRYKGw==",
+      "path": "microsoft.openapi/1.2.3",
+      "hashPath": "microsoft.openapi.1.2.3.nupkg.sha512"
     },
     "Microsoft.Win32.Primitives/4.3.0": {
       "type": "package",
@@ -3831,6 +3934,41 @@
       "path": "runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0",
       "hashPath": "runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
     },
+    "Swashbuckle.AspNetCore/6.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qeGNdISDXqZT2oYWwFWgCiYTnJFxU3qYzZ+xyM/iU/kvI/KWlJGHTxlhLb3giAFxFZM5nRgkHGFb8yfNgr7+kQ==",
+      "path": "swashbuckle.aspnetcore/6.1.1",
+      "hashPath": "swashbuckle.aspnetcore.6.1.1.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.Annotations/6.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7687LzF/F3dfqBg7AyPtVPDdMr05a/4mfWQFoKsQUeJQugDMHSyepMqrZKG10VGIEZlR38wtQ68z8XudecxjIw==",
+      "path": "swashbuckle.aspnetcore.annotations/6.1.1",
+      "hashPath": "swashbuckle.aspnetcore.annotations.6.1.1.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.Swagger/6.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JbLsVspdKevDJ6NZT+uP06Zfr1iCDbFjmIvUyoG88GgFkM/Daaq2EGUAG7INZl+FEcoVxPG9A+yWRik75ATGbw==",
+      "path": "swashbuckle.aspnetcore.swagger/6.1.1",
+      "hashPath": "swashbuckle.aspnetcore.swagger.6.1.1.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.SwaggerGen/6.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kfoGF5scayoUVXo9wIN8OgvdYJr97V/yPdSrLNXcvbthOCU1vXTv8HJQMJ3OGyG9CpIAp2wfHI2gCmvbVKkMCQ==",
+      "path": "swashbuckle.aspnetcore.swaggergen/6.1.1",
+      "hashPath": "swashbuckle.aspnetcore.swaggergen.6.1.1.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.SwaggerUI/6.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NlR3zDm0kGWNClJWPzWrGBoQn4SY6Fgpz9D5p30bKsUYzFfM7L5vVo88BktpUyCJb6zHtCOsazN+vzQn7NVjUg==",
+      "path": "swashbuckle.aspnetcore.swaggerui/6.1.1",
+      "hashPath": "swashbuckle.aspnetcore.swaggerui.6.1.1.nupkg.sha512"
+    },
     "System.AppContext/4.3.0": {
       "type": "package",
       "serviceable": true,
@@ -3869,7 +4007,7 @@
     "System.Collections.NonGeneric/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-LE/oChpRvkSi3U25u0KnJcI44JeDZ1QJCyN4qFDx2uusEypdqR24w7lKYw21eYe5esuCBuc862wRmpF63Yy1KQ==",
+      "sha512": "sha512-prtjIEMhGUnQq6RnPEYLpFt8AtLbp9yq2zxOSrY7KJJZrw25Fi97IzBqY7iqssbM61Ek5b8f3MG/sG1N2sN5KA==",
       "path": "system.collections.nongeneric/4.3.0",
       "hashPath": "system.collections.nongeneric.4.3.0.nupkg.sha512"
     },
@@ -4212,7 +4350,7 @@
     "System.Runtime.Serialization.Primitives/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-2Z5t70a2SwMsfQDp9KOclaZNyQhfIga2gppq9lIUDM1A4ohTshn4JqT7ir8bvIhXgorWKYDAr6rPzEbi/nTGKg==",
+      "sha512": "sha512-Wz+0KOukJGAlXjtKr+5Xpuxf8+c8739RI1C+A2BoQZT+wMCCoMDDdO8/4IRHfaVINqL78GO8dW8G2lW/e45Mcw==",
       "path": "system.runtime.serialization.primitives/4.3.0",
       "hashPath": "system.runtime.serialization.primitives.4.3.0.nupkg.sha512"
     },

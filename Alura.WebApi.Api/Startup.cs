@@ -16,6 +16,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.IdentityModel.Tokens;
+using Microsoft.OpenApi.Models;
 
 namespace Alura.WebApi.Api
 {
@@ -55,7 +56,7 @@ namespace Alura.WebApi.Api
             {
                 options.DefaultAuthenticateScheme = "JwtBearer";
                 options.DefaultChallengeScheme = "JwtBearer";
-            }).AddJwtBearer("JwtBearer", options => 
+            }).AddJwtBearer("JwtBearer", options =>
             {
                 options.TokenValidationParameters = new TokenValidationParameters
                 {
@@ -70,7 +71,7 @@ namespace Alura.WebApi.Api
                 };
             });
 
-            services.AddApiVersioning(options => 
+            services.AddApiVersioning(options =>
             {
                 options.ApiVersionReader = ApiVersionReader.Combine(
                     new QueryStringApiVersionReader("api-version"),
@@ -83,6 +84,38 @@ namespace Alura.WebApi.Api
                 options.SuppressModelStateInvalidFilter = true;
             });
 
+            services.AddSwaggerGen(x =>
+            {
+                x.EnableAnnotations();
+                x.SwaggerDoc("v1", new OpenApiInfo { Title = "Documentação da API", Version = "1.0" });
+                x.SwaggerDoc("v2", new OpenApiInfo { Title = "Mais um Documento da API", Description = "Descrição Teste !!!", Version = "2.0" });
+
+                x.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+                {
+                    Name = "Authorization",
+                    In = ParameterLocation.Header,
+                    Type = SecuritySchemeType.ApiKey,
+                    Description = "Autenticação Bearer via JWT"
+                });
+
+                x.AddSecurityRequirement(new OpenApiSecurityRequirement
+                {
+                    {
+                        new OpenApiSecurityScheme
+                        {
+                            Name = "Authorization",
+                            Type = SecuritySchemeType.ApiKey,
+                            In = ParameterLocation.Header,
+                            Reference = new OpenApiReference
+                            {
+                                Type = ReferenceType.SecurityScheme,
+                                Id = "Authorization"
+                            },
+                         },
+                         new string[] {}
+                     }
+                });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -97,6 +130,12 @@ namespace Alura.WebApi.Api
             app.UseAuthentication();
 
             app.UseMvc();
+            app.UseSwagger();
+            app.UseSwaggerUI(x =>
+            {
+                x.SwaggerEndpoint("/swagger/v1/swagger.json", "v1");
+                x.SwaggerEndpoint("/swagger/v2/swagger.json", "v2");
+            });
         }
     }
 }

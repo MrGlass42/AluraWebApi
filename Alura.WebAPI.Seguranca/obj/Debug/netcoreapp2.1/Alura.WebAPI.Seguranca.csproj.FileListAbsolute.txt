@@ -14,3 +14,11 @@ C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\n
 C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.csproj.CoreCompileInputs.cache
 C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.dll
 C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.pdb
+C:\Users\Pedro Rocha\Documents\StudyRepos\AluraWebApi\Alura.WebAPI.Seguranca\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.deps.json
+C:\Users\Pedro Rocha\Documents\StudyRepos\AluraWebApi\Alura.WebAPI.Seguranca\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.dll
+C:\Users\Pedro Rocha\Documents\StudyRepos\AluraWebApi\Alura.WebAPI.Seguranca\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.pdb
+C:\Users\Pedro Rocha\Documents\StudyRepos\AluraWebApi\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.csprojAssemblyReference.cache
+C:\Users\Pedro Rocha\Documents\StudyRepos\AluraWebApi\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.AssemblyInfoInputs.cache
+C:\Users\Pedro Rocha\Documents\StudyRepos\AluraWebApi\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.AssemblyInfo.cs
+C:\Users\Pedro Rocha\Documents\StudyRepos\AluraWebApi\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.dll
+C:\Users\Pedro Rocha\Documents\StudyRepos\AluraWebApi\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.pdb
