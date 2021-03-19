@@ -1,0 +1,80 @@
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.deps.json
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.runtimeconfig.json
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.runtimeconfig.dev.json
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.dll
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.pdb
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.Views.dll
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.Views.pdb
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Usuarios.dll
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.dll
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Usuarios.pdb
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.pdb
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.csprojAssemblyReference.cache
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.RazorAssemblyInfo.cache
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.RazorAssemblyInfo.cs
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.AssemblyInfoInputs.cache
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.AssemblyInfo.cs
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.TagHelpers.input.cache
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.TagHelpers.output.cache
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.RazorCoreGenerate.cache
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Livro\Detalhes.cshtml.g.cs
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Livro\Novo.cshtml.g.cs
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Livro.cshtml.g.cs
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\NovoLivro.cshtml.g.cs
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Register.cshtml.g.cs
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.Views.pdb
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.csproj.CopyComplete
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.dll
+C:\Users\Pedro Rocha\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.pdb
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.deps.json
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.runtimeconfig.json
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.runtimeconfig.dev.json
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.dll
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.pdb
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.Views.dll
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.Views.pdb
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Usuarios.dll
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.dll
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Usuarios.pdb
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.pdb
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.csprojAssemblyReference.cache
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.AssemblyInfoInputs.cache
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.AssemblyInfo.cs
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.RazorAssemblyInfo.cache
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.RazorAssemblyInfo.cs
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.TagHelpers.input.cache
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.TagHelpers.output.cache
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.RazorCoreGenerate.cache
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Livro\Detalhes.cshtml.g.cs
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Livro\Novo.cshtml.g.cs
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Livro.cshtml.g.cs
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\NovoLivro.cshtml.g.cs
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Register.cshtml.g.cs
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.Views.pdb
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.csproj.CopyComplete
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.dll
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.pdb
+C:\Users\MrGlassMASTER\Documents\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.genruntimeconfig.cache
